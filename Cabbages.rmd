@@ -40,7 +40,7 @@ veggy <- cabbages
 boxplot(VitC~Cult,data=veggy)
 ```
 
-
+The bottom of the c52 box is up higher than the top of c39 box and produces ore vitamins.
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
