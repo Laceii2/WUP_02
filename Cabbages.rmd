@@ -67,3 +67,5 @@ The P value is .00000003405. That is a really small number! With that informatio
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+This is the 2nd real write up I have done so far and learned ablout plots, mean, median etc. I also had struggles through out using posit cloud but im getting better and better the more I use it.
