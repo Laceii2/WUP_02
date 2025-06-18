@@ -56,12 +56,14 @@ favstats(VitC~Cult,data=veggy)
 
 The first quantile of the c52 data is 58. The third quantile of the c39 data is 54.75.
 
-# Discussion and Conclusion
-
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
 
+The P value is .00000003405. That is a really small number! With that information we reject the chances are happening by accident the 52 method makes more vitamin C.
+
+# Discussion and Conclusion
+
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
