@@ -59,3 +59,9 @@ The first quantile of the c52 data is 58. The third quantile of the c39 data is 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+```{r}
+t.test(VitC~Cult,data=veggy)
+```
+
